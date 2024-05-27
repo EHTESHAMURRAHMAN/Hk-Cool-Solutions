@@ -112,19 +112,19 @@
 }
 
 @media (max-width: 991.98px) {
-    .navbar .navbar-brand img {
+    /* .navbar .navbar-brand img {
         max-height: 48px;
     }
 
     .navbar .navbar-nav {
         margin-top: 20px;
         margin-bottom: 15px;
-        display: none;
-    }
+        display: flex;
+    } */
 
-    .navbar .nav-item .dropdown-menu {
+    /* .navbar .nav-item .dropdown-menu {
         padding-left: 30px;
-    }
+    } */
 }
 
 @media (min-width: 992px) {
