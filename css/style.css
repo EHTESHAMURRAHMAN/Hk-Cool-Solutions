@@ -498,7 +498,7 @@
 }
 
 .bg-primary {
-    background-color: #1388bb !important;
+    background-color: teal !important;
 }
 
 @media (min-width: 1200px) {
